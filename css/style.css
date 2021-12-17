@@ -44,6 +44,20 @@ header .overlay {
   position: relative;
   z-index: 100;
 }
+
+
+.btn-blue{
+  color: #0D6EFD;
+
+}
+
+.btn-header{
+  border: 1px solid #0D6EFD;
+  color: #0D6EFD;
+ 
+}
+
+
   
 /* responsive*/
 @media screen and (max-width: 992px) {
